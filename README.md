@@ -1,4 +1,4 @@
-# 🔀 OpenRouter + Streamlit Example App
+# 🔀 Tepper HelpBot App using PALM2 + OpenRouter + Streamlit
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)]
 
