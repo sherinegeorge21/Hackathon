@@ -28,7 +28,8 @@ Current examples include:
 - Langchain PromptTemplate
 
 ## Design and Implementation
-![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/69c4eb54-257b-4756-9bb3-51b75d84cd1c)
+![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/8fe02dcf-9787-44de-b3bf-14f879165a10)
+
 
 
 
