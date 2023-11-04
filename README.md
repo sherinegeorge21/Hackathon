@@ -30,8 +30,22 @@ Current examples include:
 ## Design and Implementation
 ![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/8fe02dcf-9787-44de-b3bf-14f879165a10)
 
+## Data Ingestion
+Although data preparation was comparatively difficult task we managed to divide it into four segments and synthesise it.We seamlessly segmented the process into four key categories: **Academic, Faculty, Admissions, and Lifestyle**. At present, we've harnessed our capabilities to train the model effectively on Academic and Faculty data. Our vision is to extend this by incorporating the remaining segments in the near future. 
 
-
+**Examples:- Train Data**
+Q. Who is the executive director for the Master Student Services?	
+A. Wendy Hermann is the executive director for the Master Student Services.
+Q. Who is teaching Experiential Learning?	
+A. Ganesh Mani will be teaching Experiential Learning in mini 3.
+Q. What is covered in the Optimization for Prescriptive Analytics course?	
+A. In this course, the framework and techniques of mathematical optimization are introduced. The
+course emphasizes modeling. That is, creating a mathematical description that reflects a given
+real-world problem. Equipped with these models, we then discuss the necessary mathematical
+techniques for finding optimal solutions. Finally, we consider the solution of these problems
+using optimization software, i.e. we represent the models in either Excel or Python, and use a
+solver to compute an optimal solution.
+![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/cf35a2c9-0bea-4728-8f34-0a915b379b4e)
 
 ## Test Scenarios
 
