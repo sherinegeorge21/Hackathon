@@ -57,9 +57,9 @@ solver to compute an optimal solution.
 
 ## Test Scenarios
 
-![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/94955597-4671-4586-be38-4aa855e2222a)
+![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/690ce6b5-6056-401a-8a7b-9794a7ca8f50)
+![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/1af5803c-d006-4e08-bf99-b7b2540b720d)
 
-![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/6fcd7e14-70f5-4187-892b-5d0fcc5b1f9a)
 
 
 
