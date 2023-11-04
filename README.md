@@ -34,6 +34,7 @@ Current examples include:
 Although data preparation was comparatively difficult task we managed to divide it into four segments and synthesise it.We seamlessly segmented the process into four key categories: **Academic, Faculty, Admissions, and Lifestyle**. At present, we've harnessed our capabilities to train the model effectively on Academic and Faculty data. Our vision is to extend this by incorporating the remaining segments in the near future. 
 
 **Examples:- Train Data**
+
 Q. Who is the executive director for the Master Student Services?	
 A. Wendy Hermann is the executive director for the Master Student Services.
 Q. Who is teaching Experiential Learning?	
