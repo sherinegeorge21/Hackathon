@@ -12,8 +12,6 @@ After analyzing the survey results, we discovered a crucial need for a centraliz
 Our helpbot solution not only **answers student queries** but also empowers students to effortlessly **summarize text files** and efficiently **structure their assignments**. By combining intelligent information retrieval, text summarization, and assignment structuring, we're redefining how students approach their academic tasks. We've also harnessed the power of OpenRouter to connect with a range of LLM models, enabling us to conduct a comprehensive comparative analysis. This strategic feature is an asset that was build for the purpose of this hackathon to compare different models and is not intended to be taken for our project proposal. 
 ![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/ccde9abe-6b82-4d18-b01a-3e87761727a8)
 
-Here are examples for building LLM apps with Streamlit and [OpenRouter](https://openrouter.ai), using [OpenRouter OAuth PCKE](https://openrouter.ai/docs#oauth).
-
 ## Overview of the App
 
 https://github.com/sherinegeorge21/Hackathon/assets/40655116/418f49d2-b0c8-47af-a1cc-9138aba142b0
@@ -93,5 +91,7 @@ Streamlit Docs-
 https://docs.streamlit.io/knowledge-base/tutorials/llm-quickstart
 LangChain Docs-
 https://python.langchain.com/docs/modules/chains/foundational/llm_chain
+
+Here are examples for building LLM apps with Streamlit and [OpenRouter](https://openrouter.ai), using [OpenRouter OAuth PCKE](https://openrouter.ai/docs#oauth).
 
 
