@@ -85,11 +85,13 @@ https://developers.generativeai.google/tutorials/oauth_quickstart
 
 https://developers.generativeai.google/tutorials/tuning_quickstart_python
 
+We referred to the below link for getting started with makersuite.
 https://developers.generativeai.google/tutorials/makersuite_quickstart
 
 In order to connect to our list of LLM models students can click the **Connect OpenRouter** button and auto-supply the app with a custom API key, using an [OAuth PKCE flow](https://openrouter.ai/docs#oauth).
-
+Streamlit Docs-
 https://docs.streamlit.io/knowledge-base/tutorials/llm-quickstart
+LangChain Docs-
 https://python.langchain.com/docs/modules/chains/foundational/llm_chain
 
 
