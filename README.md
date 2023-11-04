@@ -9,7 +9,8 @@ Carnegie Mellon Tepper's MSBA program introduces students to a wide range of inf
 After analyzing the survey results, we discovered a crucial need for a centralized system to address inquiries and challenges within the Tepper School of Business. Motivated by this insight, we envisioned a groundbreaking solution. Our proposal is to develop a state-of-the-art helpbot, a user-friendly digital assistant designed to empower students on their Tepper journey, all powered by the cutting-edge Google Palm 2 API. This innovative helpbot aims to streamline information retrieval, reduce stress, and enhance the overall student experience. Our goal is not only to participate in the hackathon but to emerge as leaders in creating a valuable solution for our academic community all while harnessing the capabilities of the Google Palm 2 API.
 
 ## Tepper HelpBot
-![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/8ad5e7f2-edbc-4331-9071-9bd79327accd)
+![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/c03b8379-0c5e-480e-a379-7d4d186d1fa3)
+
 
 Here are examples for building LLM apps with Streamlit and [OpenRouter](https://openrouter.ai), using [OpenRouter OAuth PCKE](https://openrouter.ai/docs#oauth).
 
