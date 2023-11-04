@@ -1,5 +1,6 @@
-# 🔀 CMU Tepper's Navigator: A 24/7 Chatbot Companion App for Tepper using PALM2 + LangChain + OpenRouter + Streamlit
+# 🔀 CMU Tepper's Navigator: A 24/7 Chatbot Companion App for Tepper using PALM2 + LangChain + OpenRouter + Streamlit 
 
+# Note - Dont skip out on watching our result video below.  
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)]
 
 ## Problem Introduction
