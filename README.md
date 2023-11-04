@@ -64,6 +64,39 @@ While the **80% accuracy rate** is a good performance indicator, we acknowledge 
 The loss curve below shows how much the model's predictions deviate from the ideal outputs.
 ![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/e3c76a3b-ba58-4d71-9eec-580d7c615c63)
 
+**Strategies to make the model accuracy better**
+1. Data Collection and Annotation:
+Collect more data related to Tepper-specific programs, courses, faculty, events, and other essential information.
+Annotate the data to highlight key entities and relationships unique to Tepper.
+
+2. Domain-Specific Vocabulary:
+Incorporate Tepper-specific terminology and jargon into the model's training data, allowing it to comprehend and respond to domain-specific queries effectively.
+Evaluation and Feedback Loop:
+
+3. Measure the model's performance based on criteria that matter most to Tepper students and staff, such as response accuracy and relevancy.
+Continuously gather user feedback to improve the model's understanding and usefulness.
+
+4. Data Augmentation:
+Use data augmentation to enrich your dataset with variations of common Tepper-related queries and responses.
+
+5. Regular Updates:
+Keep the model updated with the latest information regarding Tepper programs, faculty, events, and any changes within the academic environment.
+
+6.Active Learning:
+Implement an active learning approach to focus on queries where the model struggles to provide accurate responses, thus increasing its proficiency in handling challenging situations.
+
+7.Post-Processing:
+Apply post-processing logic to the model's outputs to ensure that responses align with Tepper's specific guidelines and expectations.
+
+8.Model Ensemble:
+Consider using ensemble techniques to combine the outputs of different model variants, possibly incorporating specialized models for particular Tepper-related tasks.
+
+9. Monitoring and Quality Control:
+Continuously monitor the HelpBot's performance and ensure that quality control mechanisms are in place to address any errors or inaccuracies in real-time.
+
+10. User Feedback Integration:
+Actively encourage user feedback to understand their unique needs and improve the HelpBot's capabilities accordingly.
+By following these tailored strategies, the Tepper HelpBot can evolve into a reliable and invaluable tool for Tepper School of Business students, faculty, and staff. It can provide timely and accurate information, streamline support services, and contribute to a more efficient and responsive academic environment.
 
 ## Challenges
 
