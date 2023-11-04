@@ -77,7 +77,7 @@ Measure the model's performance based on criteria that matter most to Tepper stu
 Continuously gather user feedback to improve the model's understanding and usefulness.
 
 4. Data Augmentation:
-Use data augmentation to enrich your dataset with variations of common Tepper-related queries and responses.
+Use data augmentation to enrich the dataset with variations of common Tepper-related queries and responses.
 
 5. Regular Updates:
 Keep the model updated with the latest information regarding Tepper programs, faculty, events, and any changes within the academic environment.
