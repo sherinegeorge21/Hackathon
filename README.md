@@ -28,6 +28,7 @@ Current examples include:
 - Langchain PromptTemplate
 
 ## Design and Implementation
+![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/d51392e2-2ba9-4a36-bce7-7483dbe4465c)
 
 
 ## Test Scenarios
