@@ -60,9 +60,8 @@ solver to compute an optimal solution.
 ![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/47d8e99f-dbdc-4976-a182-bc350ebc9a12)
 ![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/71be49e8-170f-4c37-9b91-62613eb4c80c)
 
-
-
-
+In our most recent testing shown above, our solution achieved a commendable 80% accuracy rate when presented with five different inputs. It provided correct answers for four out of the five cases. Notably, in the third case, it returned "Zoe Duque" instead of "Zoey Jiang."
+While the **80% accuracy rate** is a good performance indicator, we acknowledge that there's room for improvement, particularly in addressing cases like the third one. This demonstrates that we would need to add more training data in order to get better accuracy.
 
 ## Drawbacks
 
