@@ -98,12 +98,27 @@ Continuously monitor the HelpBot's performance and ensure that quality control m
 Actively encourage user feedback to understand their unique needs and improve the HelpBot's capabilities accordingly.
 By following these tailored strategies, the Tepper HelpBot can evolve into a reliable and invaluable tool for Tepper School of Business students, faculty, and staff. It can provide timely and accurate information, streamline support services, and contribute to a more efficient and responsive academic environment.
 
-## Challenges
+## Challenges/ Issues
 
-One of the challenges we've encountered is the need for copious amounts of training data to scale this solution effectively. However, we're not daunted by the scale, and we've set our sights on a bold ambition: to collect and synthesize this data with the enthusiastic support of the respective departments at Tepper. With their collaboration, we're poised to create a training dataset that's as expansive as our aspirations.
+1. Handling Well-Known Entities:
+Commonly known entities, such as if we had a professor named Sundar Pichai, it would pose a unique challenge. Since they are widely recognized, retraining the system to generate new, accurate definitions can be intricate. It requires a delicate balance to ensure the system can adapt to well-known entities while still maintaining precision.
 
-Another intriguing aspect we've uncovered is the inherent knowledge within the system, such as PALM 2, which can occasionally pose a challenge when dealing with commonly known entities. Take, for instance, if we have a professor named Sundar Pichai. Given that he is already well-known, retraining the system to generate new definitions can be a delicate task. It's a unique challenge we're excited to tackle in our journey.
-Our approach blends innovation with collaboration, and we're determined to refine and expand our solution, overcoming these challenges and paving the way for an even brighter future where AI effortlessly assists us in exploring the vast realm of information and knowledge.
+2. Balancing Familiarity and Innovation:
+Striking the right balance between utilizing the inherent knowledge within the system, like PALM 2, and fostering innovation is a delicate task. We need to ensure that the model leverages existing knowledge while being open to new information and customized data, preventing over-reliance on pre-existing knowledge.
+
+3. Collaboration and Coordination:
+Collaborating with the relevant departments at Tepper or other institutions to collect and integrate domain-specific data is essential. This involves coordinating efforts, securing data sources, and maintaining a streamlined flow of information.
+
+4. Ensuring Relevance:
+The challenge is to make sure that the system remains relevant by keeping up with the dynamic nature of academic institutions. Frequent updates and maintaining the system's responsiveness to changes in academic programs, faculty, and other variables are crucial.
+
+5. User Expectations and Accuracy:
+Meeting user expectations in terms of accuracy and relevance is a paramount challenge. Users, especially within an academic context, rely on precise and reliable information. Achieving and maintaining this level of accuracy is a constant pursuit.
+
+6. Handling Diverse Data Types:
+Academic information can encompass a wide variety of data types, from course details to faculty profiles and event schedules. The challenge lies in effectively processing and responding to this diverse range of information.
+
+We would also need copious amounts of training data to scale this solution effectively. However, we're not daunted by the scale, and we've set our sights on a bold ambition: to collect and synthesize this data with the enthusiastic support of the respective departments at Tepper. With their collaboration, we're poised to create a training dataset that's as expansive as our aspirations. Our approach blends innovation with collaboration, and we're determined to refine and expand our solution, overcoming these challenges and paving the way for an even brighter future where AI effortlessly assists us in exploring the vast realm of information and knowledge.
 
 ## Future Scope
 
