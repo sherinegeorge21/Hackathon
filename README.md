@@ -15,7 +15,11 @@ Our helpbot solution not only **answers student queries** but also empowers stud
 Here are examples for building LLM apps with Streamlit and [OpenRouter](https://openrouter.ai), using [OpenRouter OAuth PCKE](https://openrouter.ai/docs#oauth).
 
 ## Overview of the App
-https://youtu.be/DnathemT5vs?si=_TBL5eRSvodmijkc
+
+https://github.com/sherinegeorge21/Hackathon/assets/40655116/418f49d2-b0c8-47af-a1cc-9138aba142b0
+
+
+
 
 
 This app showcases a growing collection of OpenRouter minimum working examples, using a single API to access multiple language models, including [OpenAI GPT3/4, Anthropic Claude and Claude 100k, Google PaLM 2, and more](https://openrouter.ai/docs#models).
