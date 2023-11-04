@@ -71,9 +71,9 @@ Annotate the data to highlight key entities and relationships unique to Tepper.
 
 2. Domain-Specific Vocabulary:
 Incorporate Tepper-specific terminology and jargon into the model's training data, allowing it to comprehend and respond to domain-specific queries effectively.
-Evaluation and Feedback Loop:
 
-3. Measure the model's performance based on criteria that matter most to Tepper students and staff, such as response accuracy and relevancy.
+3. Evaluation and Feedback Loop:
+Measure the model's performance based on criteria that matter most to Tepper students and staff, such as response accuracy and relevancy.
 Continuously gather user feedback to improve the model's understanding and usefulness.
 
 4. Data Augmentation:
