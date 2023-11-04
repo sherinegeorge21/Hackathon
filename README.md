@@ -74,7 +74,22 @@ One of the challenges we've encountered is the need for copious amounts of train
 Another intriguing aspect we've uncovered is the inherent knowledge within the system, such as PALM 2, which can occasionally pose a challenge when dealing with commonly known entities. Take, for instance, if we have a professor named Sundar Pichai. Given that he is already well-known, retraining the system to generate new definitions can be a delicate task. It's a unique challenge we're excited to tackle in our journey.
 Our approach blends innovation with collaboration, and we're determined to refine and expand our solution, overcoming these challenges and paving the way for an even brighter future where AI effortlessly assists us in exploring the vast realm of information and knowledge.
 
+## Future Scope
 
-## Getting API keys
+Our project's trajectory is not just about a singular program; it's about transforming the entire educational landscape. We aim to start at the Tepper MSBA program as our launchpad, but our vision stretches far and wide. In the near future, we'll scale up to encompass all programs at the Tepper School of Business. As we gain momentum, our ultimate goal is to extend our reach to the entire CMU academic ecosystem. This venture is not just about innovation; it's a pioneering journey to redefine how AI can enhance education and information access, and it promises to be a winning solution for students and institutions alike.
 
-Not needed! Our users will click the **Connect OpenRouter** button and auto-supply your app with a custom API key, using an [OAuth PKCE flow](https://openrouter.ai/docs#oauth).
+## References
+
+We referred to the below links to setup OAuth2 in order to access our fine tuned model.
+https://developers.generativeai.google/tutorials/oauth_quickstart
+
+https://developers.generativeai.google/tutorials/tuning_quickstart_python
+
+https://developers.generativeai.google/tutorials/makersuite_quickstart
+
+In order to connect to our list of LLM models students can click the **Connect OpenRouter** button and auto-supply the app with a custom API key, using an [OAuth PKCE flow](https://openrouter.ai/docs#oauth).
+
+https://docs.streamlit.io/knowledge-base/tutorials/llm-quickstart
+https://python.langchain.com/docs/modules/chains/foundational/llm_chain
+
+
