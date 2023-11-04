@@ -67,10 +67,12 @@ The loss curve below shows how much the model's predictions deviate from the ide
 ![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/e3c76a3b-ba58-4d71-9eec-580d7c615c63)
 
 
-## Drawbacks
+## Challenges
 
+One of the challenges we've encountered is the need for copious amounts of training data to scale this solution effectively. However, we're not daunted by the scale, and we've set our sights on a bold ambition: to collect and synthesize this data with the enthusiastic support of the respective departments at Tepper. With their collaboration, we're poised to create a training dataset that's as expansive as our aspirations.
 
-
+Another intriguing aspect we've uncovered is the inherent knowledge within the system, such as PALM 2, which can occasionally pose a challenge when dealing with commonly known entities. Take, for instance, if we have a professor named Sundar Pichai. Given that he is already well-known, retraining the system to generate new definitions can be a delicate task. It's a unique challenge we're excited to tackle in our journey.
+Our approach blends innovation with collaboration, and we're determined to refine and expand our solution, overcoming these challenges and paving the way for an even brighter future where AI effortlessly assists us in exploring the vast realm of information and knowledge.
 
 ## Running the code
 
