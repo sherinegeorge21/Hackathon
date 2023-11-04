@@ -82,13 +82,13 @@ Use data augmentation to enrich your dataset with variations of common Tepper-re
 5. Regular Updates:
 Keep the model updated with the latest information regarding Tepper programs, faculty, events, and any changes within the academic environment.
 
-6.Active Learning:
+6. Active Learning:
 Implement an active learning approach to focus on queries where the model struggles to provide accurate responses, thus increasing its proficiency in handling challenging situations.
 
-7.Post-Processing:
+7. Post-Processing:
 Apply post-processing logic to the model's outputs to ensure that responses align with Tepper's specific guidelines and expectations.
 
-8.Model Ensemble:
+8. Model Ensemble:
 Consider using ensemble techniques to combine the outputs of different model variants, possibly incorporating specialized models for particular Tepper-related tasks.
 
 9. Monitoring and Quality Control:
