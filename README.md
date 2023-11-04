@@ -18,18 +18,14 @@ Here are examples for building LLM apps with Streamlit and [OpenRouter](https://
 
 https://github.com/sherinegeorge21/Hackathon/assets/40655116/418f49d2-b0c8-47af-a1cc-9138aba142b0
 
+Our current solution includes:
 
-
-
+**Helpbot** : To answer student queries based on our custom tuned model.
+**Tepper File Q&A** - To summarize text documents or ask questions based on any text document.
+**Tepper Langchain Quickstart** - Similar to the helpbot, but uses langchain for faster retrieval from the web, we plan to integrate LangChain into our tuned model.
+**Tepper Langchain PromptTemplate** - This is to generate a basic outline for any assignment/blog/posts that students may need to write.
 
 This app showcases a growing collection of OpenRouter minimum working examples, using a single API to access multiple language models, including [OpenAI GPT3/4, Anthropic Claude and Claude 100k, Google PaLM 2, and more](https://openrouter.ai/docs#models).
-
-Current examples include:
-
-- Helpbot
-- Tepper File Q&A
-- Langchain Quickstart
-- Langchain PromptTemplate
 
 ## Design and Implementation
 ![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/8fe02dcf-9787-44de-b3bf-14f879165a10)
