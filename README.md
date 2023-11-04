@@ -63,6 +63,10 @@ solver to compute an optimal solution.
 In our most recent testing shown above, our solution achieved a commendable 80% accuracy rate when presented with five different inputs. It provided correct answers for four out of the five cases. Notably, in the third case, it returned "Zoe Duque" instead of "Zoey Jiang."
 While the **80% accuracy rate** is a good performance indicator, we acknowledge that there's room for improvement, particularly in addressing cases like the third one. This demonstrates that we would need to add more training data in order to get better accuracy.
 
+The loss curve below shows how much the model's predictions deviate from the ideal outputs.
+![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/e3c76a3b-ba58-4d71-9eec-580d7c615c63)
+
+
 ## Drawbacks
 
 
