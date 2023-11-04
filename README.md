@@ -1,4 +1,4 @@
-# 🔀 CMU Tepper's Navigator: A 24/7 Chatbot Companion App using PALM2 + OpenRouter + Streamlit
+# 🔀 CMU Tepper's Navigator: A 24/7 Chatbot Companion App for Tepper using PALM2 + LangChain + OpenRouter + Streamlit
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)]
 
@@ -9,7 +9,8 @@ Carnegie Mellon Tepper's MSBA program introduces students to a wide range of inf
 After analyzing the survey results, we discovered a crucial need for a centralized system to address inquiries and challenges within the Tepper School of Business. Motivated by this insight, we envisioned a groundbreaking solution. Our proposal is to develop a state-of-the-art helpbot, a user-friendly digital assistant designed to empower students on their Tepper journey, all powered by the cutting-edge Google Palm 2 API. This innovative helpbot aims to streamline information retrieval, reduce stress, and enhance the overall student experience. Our goal is not only to participate in the hackathon but to emerge as leaders in creating a valuable solution for our academic community all while harnessing the capabilities of the Google Palm 2 API.
 
 ## Tepper HelpBot
-![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/c03b8379-0c5e-480e-a379-7d4d186d1fa3)
+Our helpbot solution not only **answers student queries** but also empowers students to effortlessly **summarize text files** and efficiently **structure their assignments**. By combining intelligent information retrieval, text summarization, and assignment structuring, we're redefining how students approach their academic tasks.  
+![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/ccde9abe-6b82-4d18-b01a-3e87761727a8)
 
 
 Here are examples for building LLM apps with Streamlit and [OpenRouter](https://openrouter.ai), using [OpenRouter OAuth PCKE](https://openrouter.ai/docs#oauth).
@@ -24,6 +25,17 @@ Current examples include:
 - Tepper File Q&A
 - Langchain Quickstart
 - Langchain PromptTemplate
+
+## Design and Implementation
+
+
+## Test Scenarios
+
+
+## Drawbacks
+
+
+
 
 ## Running the code
 
