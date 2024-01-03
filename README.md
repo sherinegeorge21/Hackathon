@@ -31,8 +31,7 @@ This app showcases a growing collection of OpenRouter minimum working examples, 
 ## Design and Implementation
 ![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/8fe02dcf-9787-44de-b3bf-14f879165a10)
 
-![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/16ae848b-300d-443d-bd43-8852ee912f57)
-
+![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/46c98101-cf3d-4daa-99bc-8e013b03bc20)
 
 ## Data Ingestion
 Although data preparation was comparatively difficult task we managed to divide it into four segments and synthesise it.We seamlessly segmented the process into four key categories: **Academic, Faculty, Admissions, and Lifestyle**. At present, we've harnessed our capabilities to train the model effectively on Academic and Faculty data. Our vision is to extend this by incorporating the remaining segments in the near future. 
