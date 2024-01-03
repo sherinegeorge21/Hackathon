@@ -33,8 +33,14 @@ This app showcases a growing collection of OpenRouter minimum working examples, 
 
 ![image](https://github.com/sherinegeorge21/Hackathon/assets/40655116/46c98101-cf3d-4daa-99bc-8e013b03bc20)
 
-## Data Ingestion
-Although data preparation was comparatively difficult task we managed to divide it into four segments and synthesise it.We seamlessly segmented the process into four key categories: **Academic, Faculty, Admissions, and Lifestyle**. At present, we've harnessed our capabilities to train the model effectively on Academic and Faculty data. Our vision is to extend this by incorporating the remaining segments in the near future. 
+## Data Ingestion and Preprocessing
+Although data preparation was comparatively difficult task we managed to divide it into four segments and synthesise it.We seamlessly segmented the process into four key categories: **Academic, Faculty, Admissions, and Lifestyle**. At present, we've harnessed our capabilities to train the model effectively on Academic and Faculty data. Our vision is to extend this by incorporating the remaining segments in the near future. We would use LangChain's adept web scraping capabilities to aggregate pertinent data from diverse CMU Tepper online sources. This data underwent meticulous cleansing and standardization through LangChain's Natural Language Processing (NLP) tools, systematically eliminating noise and inconsistencies,ensuring our subsequent analysis rested on refined information. Although data preparation was a comparatively difficult task we managed to divide it into four segments and synthesize it. 
+
+Following data acquisition and preprocessing, we convert document chunks into embeddings using LangChain's advanced models. These embeddings are then stored in a vector database, forming the core of our information retrieval system. This enables rapid access and retrieval of relevant data, ensuring swift responses to user queries, often within just 15 seconds, while maintaining accuracy and relevance.
+
+The crux of our strategy lies in the semantic similarity search powered by FAISS. We utilized LangChain's embedding models to extract meaningful representations from the data, enabling FAISS's efficient similarity search algorithms to retrieve documents aligned semantically with user queries. This seamless integration substantially optimized our search process, significantly enhancing the precision of information retrieval.
+
+Furthermore, we implemented a multi-layered approach involving relevance ranking and filtering. Leveraging LangChain's machine learning capabilities, we devised a nuanced relevance ranking mechanism, considering variables like query relevance, source credibility, and user preferences. Simultaneously, our system efficiently filtered out redundant or irrelevant documents, ensuring users received only the most pertinent information.
 
 **Examples:- Train Data**
 
